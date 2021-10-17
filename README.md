@@ -1,6 +1,6 @@
 # Simple Cart operation using React Js without using REDUX
 
-This project was created inspired by Mosh Hamedani Redux Tutorial.
+This project was inspired by Mosh Hamedani Redux Tutorial.
 
 ## Available Scripts
 
